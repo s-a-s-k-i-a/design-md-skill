@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node (only used for validation via npx; no node_modules expected here)
+node_modules/
+
+# Local notes / scratch
+NOTES.md
+TODO.md
+*.local.md
