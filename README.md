@@ -217,7 +217,9 @@ PRs welcome.
 
 Issues and PRs are very welcome. The skill is intentionally simple — three files, ~200 lines of instructions — so contributions are cheap to review and merge.
 
-If you find the skill useful, **starring the repo helps other designers and devs find it.** That's the whole pitch for the star button.
+If you find the skill useful, **starring the repo helps other designers and devs find it.** That's the whole pitch for the star button. 
+
+Any questions? Please feel free to reach out via [isla-stud.io](https://isla-stud.io)
 
 ---
 
